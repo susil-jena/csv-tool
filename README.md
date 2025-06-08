@@ -27,7 +27,7 @@ A full-stack MERN-like application for uploading, managing, editing, and exporti
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/csv-management-tool.git
+   git clone https://github.com/your-username/csv-management-tool.git](https://github.com/susil-jena/csv-tool.git
    cd csv-management-tool
 
 
