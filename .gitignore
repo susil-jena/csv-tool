@@ -1,0 +1,4 @@
+/scv-backed/node_modules
+/scv-frontend/node_modules
+/scv-backed/.env
+/scv-frontend/.env
